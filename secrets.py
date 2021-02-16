@@ -1,3 +1,3 @@
-spotify_token = "BQD7mrwsRwh-vD7lxb8vP3xDG8zXjhL01gX6Fk1VB244bRXMUwfs319f2G_acI1LCS6SSOjtENCQEwUFN24pan31AisEo2DUVnmidZWwmd_-IcvZBinUL__HJik2dqq5mm1MHgzZDQLxTQ"
+spotify_token = ""
 
-spotify_user_id = "cunningrob86"
+spotify_user_id = ""
